@@ -1,37 +1,5 @@
 [
   {
-    "title": "Horsey Game",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3602570/945b3e12201603882fedbbf7abcb5fc3f3ad3fcb/header.jpg?t=1771454613",
-    "description": "Collect Horses. Breed Horses. Race Horses. Genetically Modify Horses. Create a Horse paradise or just get rich!",
-    "screenshots": [
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3602570/205fa0300c4c75b15240d4e1c9cf8435a4ff8dbb/ss_205fa0300c4c75b15240d4e1c9cf8435a4ff8dbb.1920x1080.jpg?t=1771454613",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3602570/2e4ba3a1f037f0d7972ac815a48bc47d80beb81e/ss_2e4ba3a1f037f0d7972ac815a48bc47d80beb81e.1920x1080.jpg?t=1771454613",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3602570/781f87312c1bd5db7af4b5a5c7a687f5c42a46d1/ss_781f87312c1bd5db7af4b5a5c7a687f5c42a46d1.1920x1080.jpg?t=1771454613",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3602570/2e17b7d63a22aa4f3268bfa32ee599a95c6b6cab/ss_2e17b7d63a22aa4f3268bfa32ee599a95c6b6cab.1920x1080.jpg?t=1771454613",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3602570/597ae8af02e5ece15cf7d564fe2a7d45d35b2f64/ss_597ae8af02e5ece15cf7d564fe2a7d45d35b2f64.1920x1080.jpg?t=1771454613",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3602570/7ca2a5053fab3d85005b959c447fb893bd00c12b/ss_7ca2a5053fab3d85005b959c447fb893bd00c12b.1920x1080.jpg?t=1771454613"
-    ],
-    "videos": [],
-    "dl": [
-      "https://trashbytes.net/dl/FVYWEfBaXoMdzB9rFxsWCD6krnqUTzjMdFanm5NqcgJozG9S7DDRxQAs20uYZ-40ZTLEegyDW9vS5LkZYmIoTAtNRQ9AoPfVBGRha5t5uMD6Z8mTcj5pH3bCpXm0BqXR?v=1773701945-qEZ%2F1k9RFQfFEWe2iTRzOSh5dILqYuCVI3d7d%2BAU1xI%3D"
-    ],
-    "release_date": "18 févr. 2026",
-    "size": " 71.6MB",
-    "min_requirements": {
-      "OS": "Windows 10",
-      "Processeur": "anything should do",
-      "Memoire": "1 GB de",
-      "Graphics": "pretty minimal",
-      "Storage": "60 MB d'espace disque disponible"
-    },
-    "recommended_requirements": {},
-    "online": false,
-    "categories": [
-      "Indépendant",
-      "Simulation"
-    ]
-  },
-  {
     "title": "Dice A Million",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3430340/7f26ffc6d43cbf1ad54ceae34631320681939b01/header.jpg?t=1773255943",
     "description": "Avez-vous déjà essayé d'atteindre 1 000 000 avec un jet de dés ? Non ? Constituez le bon sac de dés, et vous pourriez bien y arriver.",
@@ -66,7 +34,7 @@
   {
     "title": "PROJECT ZERO : Le Masque de l'Éclipse Lunaire",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2130460/header_french.jpg?t=1765501816",
-    "description": "Le jeu d'horreur/survie japonais, « PROJECT ZERO : Le Masque de l'Éclipse Lunaire », est de retour avec de meilleurs graphismes.",
+    "description": "Le jeu d'horreur/survie japonais, « PROJECT ZERO : Le Masque de l'Éclipse Lunaire », est de retour avec de meilleurs graphismes.",
     "screenshots": [
       "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2130460/ss_9e1dd930bf68fb8e904a79cfbe43173572d44ee9.1920x1080.jpg?t=1765501816",
       "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2130460/ss_6ee41abc629ea8f213baab3cc5aab5a25c1261b1.1920x1080.jpg?t=1765501816",
@@ -136,46 +104,6 @@
     "categories": [
       "Aventure",
       "Indépendant"
-    ]
-  },
-  {
-    "title": "Demon Tides",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2585890/3a852b4d723bb9ef49f38a65dec253d89bf9d030/header.jpg?t=1773693357",
-    "description": "Explorez les océans et découvrez les sombres secrets du royaume, exprimez-vous en parcourant les plateformes de dizaines de lieux différents et améliorez votre équipement en chemin !",
-    "screenshots": [
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2585890/ss_f64e5b360422d5beb1c525a078b36a5cb2c8ee83.1920x1080.jpg?t=1773693357",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2585890/ss_27746a84e41bf81788604bfeafca8a2e88ae62be.1920x1080.jpg?t=1773693357",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2585890/ss_2099fb5d3c2f6ce88688abb74ca70fa7a2329989.1920x1080.jpg?t=1773693357",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2585890/ss_5d600e2334b6c4d017aee3d06d775db9b7aeb514.1920x1080.jpg?t=1773693357",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2585890/ss_1b31b09f9ad1157822e701939834cab7a025b6b3.1920x1080.jpg?t=1773693357",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2585890/ss_cd052f908bfe896274aa3f5f78bb1e0769dc99bd.1920x1080.jpg?t=1773693357"
-    ],
-    "videos": [],
-    "dl": [
-      "https://trashbytes.net/dl/mgSg2Ls646q240JjozPqB1M1g2HXyUW7vQLuJMw8Ck3ex3c6hYtXg46HrfkfIzqwNeS7ageVU55FlkhPYTPn-O4ZKqsom86EUqox_q3V1uyLmkOh9lGCwWUvB8cs31xl?v=1773695148-X0SSwAxJErDiSdBVC%2FiIJWrmvmsdi%2FdrCVlJHRuZgvA%3D"
-    ],
-    "release_date": "19 févr. 2026",
-    "size": "2.1 GB",
-    "min_requirements": {
-      "OS": "Windows 10/11/12",
-      "Processeur": "3.0 GHz",
-      "Memoire": "4 GB de",
-      "Graphics": "GeForce GT 740 or equivalent",
-      "Storage": "5 GB d'espace disque disponible Notes supplémentaires : SSD Required.",
-      "DirectX": "Version 11"
-    },
-    "recommended_requirements": {
-      "OS": "Windows 10/11/12",
-      "Processeur": "4 GHz",
-      "Memoire": "8 GB de",
-      "Graphics": "GeForce RTX 30 or equivalent",
-      "Storage": "5 GB d'espace disque disponible Notes supplémentaires : SSD Required.",
-      "DirectX": "Version 12"
-    },
-    "online": false,
-    "categories": [
-      "Action",
-      "Aventure"
     ]
   },
   {
