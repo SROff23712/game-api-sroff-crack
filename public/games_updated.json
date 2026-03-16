@@ -1,5 +1,38 @@
 [
   {
+    "title": "Escape from Yandere",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4081840/357a2f59ec1939f8d0025c0121e86b0f3dabf12c/header.jpg?t=1771446146",
+    "description": "Yandera t’a enfermé chez toi et exige une déclaration d’amour. Tu peux rester avec elle ou tenter de t’échapper. Explore la maison, mais sois prudent : Yandera peut te tuer.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4081840/64a35d10c26604f17b14a5325e08a5b03acd6bbd/ss_64a35d10c26604f17b14a5325e08a5b03acd6bbd.1920x1080.jpg?t=1771446146",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4081840/159d1f90cfe12fd7e7f352a29d7be33ce738c84c/ss_159d1f90cfe12fd7e7f352a29d7be33ce738c84c.1920x1080.jpg?t=1771446146",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4081840/133052d5ccce9a9a9ce4d7b1f40c68b6dc24fe19/ss_133052d5ccce9a9a9ce4d7b1f40c68b6dc24fe19.1920x1080.jpg?t=1771446146",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4081840/c7296cc7421667761d4d258ed27252268b48846a/ss_c7296cc7421667761d4d258ed27252268b48846a.1920x1080.jpg?t=1771446146",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4081840/797a221aa359131d975f899680062997db7bef44/ss_797a221aa359131d975f899680062997db7bef44.1920x1080.jpg?t=1771446146",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4081840/33293b0df59e2daf7d0e1498290aafea1968634c/ss_33293b0df59e2daf7d0e1498290aafea1968634c.1920x1080.jpg?t=1771446146"
+    ],
+    "videos": [],
+    "dl": [
+      "https://buzzheavier.com/np65o7bvr6qp"
+    ],
+    "release_date": "7 févr. 2026",
+    "size": "1.1 GB",
+    "min_requirements": {
+      "OS": "Windows 11",
+      "Processeur": "Intel Core i5",
+      "Memoire": "6 GB de",
+      "Graphics": "Nvidia RTX 3060",
+      "Storage": "3 GB d'espace disque disponible Notes supplémentaires : Microphone required"
+    },
+    "recommended_requirements": {},
+    "online": false,
+    "categories": [
+      "Aventure",
+      "Indépendant",
+      "RPG"
+    ]
+  },
+  {
     "title": "Dice A Million",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3430340/7f26ffc6d43cbf1ad54ceae34631320681939b01/header.jpg?t=1773255943",
     "description": "Avez-vous déjà essayé d'atteindre 1 000 000 avec un jet de dés ? Non ? Constituez le bon sac de dés, et vous pourriez bien y arriver.",
