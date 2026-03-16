@@ -34,7 +34,10 @@ export async function POST(request: Request) {
       );
     }
 
+    const branch = "master";
     const apiUrl = `https://api.github.com/repos/${GITHUB_OWNER}/${GITHUB_REPO}/contents/${FILE_PATH}`;
+    const urlWithBranch = `${apiUrl}?ref=${branch}`;
+    
     const headers = {
       Authorization: `Bearer ${GITHUB_TOKEN}`,
       Accept: "application/vnd.github+json",
@@ -43,9 +46,11 @@ export async function POST(request: Request) {
       "User-Agent": "NextJS-App-Route"
     };
 
+    diagnostics.branch = branch;
+
     // 1. Get metadata and SHA
-    console.log(`[${requestId}] Action: Fetching metadata from GitHub...`);
-    const metaRes = await fetch(apiUrl, { headers, cache: 'no-store' });
+    console.log(`[${requestId}] Action: Fetching metadata from ${urlWithBranch}`);
+    const metaRes = await fetch(urlWithBranch, { headers, cache: 'no-store' });
     
     if (!metaRes.ok) {
         const errText = await metaRes.text();
@@ -65,9 +70,8 @@ export async function POST(request: Request) {
         console.log(`[${requestId}] Action: Content found in metadata, decoding...`);
         currentContent = Buffer.from(fileData.content, "base64").toString("utf-8");
     } else {
-        console.log(`[${requestId}] Action: Large file detected (no content in metadata). Fetching raw content...`);
-        // Use the download_url or fetch raw by specifying content type
-        const rawRes = await fetch(apiUrl, { 
+        console.log(`[${requestId}] Action: Large file detected. Fetching raw from ${urlWithBranch}`);
+        const rawRes = await fetch(urlWithBranch, { 
             headers: { ...headers, Accept: "application/vnd.github.v3.raw" },
             cache: 'no-store'
         });
@@ -104,7 +108,7 @@ export async function POST(request: Request) {
     ).toString("base64");
 
     // 4. Commit back
-    console.log(`[${requestId}] Action: Committing updated content to GitHub...`);
+    console.log(`[${requestId}] Action: Committing to ${apiUrl} (branch: ${branch})`);
     const putRes = await fetch(apiUrl, {
       method: "PUT",
       headers,
@@ -112,6 +116,7 @@ export async function POST(request: Request) {
         message: `Add game: ${newGame.title ?? "unknown"}`,
         content: updatedContent,
         sha,
+        branch
       }),
     });
 
