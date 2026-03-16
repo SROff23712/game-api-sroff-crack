@@ -1,5 +1,44 @@
 [
   {
+    "title": "PROJECT ZERO : Le Masque de l'Éclipse Lunaire",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2130460/header_french.jpg?t=1765501816",
+    "description": "Le jeu d'horreur/survie japonais, « PROJECT ZERO : Le Masque de l'Éclipse Lunaire », est de retour avec de meilleurs graphismes.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2130460/ss_9e1dd930bf68fb8e904a79cfbe43173572d44ee9.1920x1080.jpg?t=1765501816",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2130460/ss_6ee41abc629ea8f213baab3cc5aab5a25c1261b1.1920x1080.jpg?t=1765501816",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2130460/ss_4dcd769a708ca35aa7a2b69d37fc4cb841394b86.1920x1080.jpg?t=1765501816",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2130460/ss_bc68a0b2f8ace60f90a97a60077affb023fa51e2.1920x1080.jpg?t=1765501816",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2130460/ss_54c51592ffe6ae0fddd1a0c195c9ca8b2d12fe95.1920x1080.jpg?t=1765501816",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2130460/ss_04a2607f9ff04b12a3089b5e2c8880ef541b9880.1920x1080.jpg?t=1765501816"
+    ],
+    "videos": [],
+    "dl": [
+      "https://gofile.io/d/LmX0mW"
+    ],
+    "release_date": "8 mars 2023",
+    "size": "14.2 GB",
+    "min_requirements": {
+      "OS": "Windows® 10, Windows® 11 64bit",
+      "Processeur": "Intel Core i5 4460 or over",
+      "Memoire": "4 GB de",
+      "Graphics": "NVIDIA GeForce GTX 660 or over, AMD Radeon R7 370 or over, 1280x720",
+      "Storage": "25 GB d'espace disque disponible Carte son : 16 bit stereo, 48kHz WAVE file can be played Notes supplémentaires : The estimated performance is 720P/30-60FPS. Framerate may drop during scenes with heavy load. Note: If you are using Windows® 11, make sure you meet the system requirements for this game and the operating system. The minimum",
+      "DirectX": "Version 11 Réseau : connexion internet haut débit"
+    },
+    "recommended_requirements": {
+      "OS": "Windows® 10, Windows® 11 64bit",
+      "Processeur": "Intel Core i7 4770 or over",
+      "Memoire": "8 GB de",
+      "Graphics": "NVIDIA GeForce GTX 960 or over, AMD Radeon RX 570 or over, 1920x1080",
+      "Storage": "25 GB d'espace disque disponible Carte son : 16 bit stereo, 48kHz WAVE file can be played Notes supplémentaires : The estimated performance is 1080P/60FPS. Framerate may drop during scenes with heavy load. Note: If you are using Windows® 11, make sure you meet the system requirements for this game and the operating system.",
+      "DirectX": "Version 11 Réseau : connexion internet haut débit"
+    },
+    "online": false,
+    "categories": [
+      "Aventure"
+    ]
+  },
+  {
     "title": "Amnesia: Rebirth",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/999220/header.jpg?t=1752056337",
     "description": "Une nouvelle plongée dans les ténèbres par les créateurs de la série emblématique Amnesia. Un périple atroce à travers la désolation et le désespoir, qui explore les limites de la résilience humaine. Mode aventure disponible pour profiter de l’histoire et de l’aventure sans la partie horreur.",
