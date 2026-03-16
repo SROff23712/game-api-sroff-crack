@@ -4,44 +4,35 @@ export async function POST(request: Request) {
   const requestId = Math.random().toString(36).substring(7);
   console.log(`[${requestId}] --- NEW REQUEST RECEIVED ---`);
 
-  // Config variables inside the handler to ensure they are fresh
   const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
   const GITHUB_OWNER = process.env.GITHUB_OWNER || "SROff23712";
   const GITHUB_REPO = process.env.GITHUB_REPO || "game-api-sroff-crack";
   const FILE_PATH = "public/games_updated.json";
 
-  const diagnostics = {
+  const diagnostics: any = {
     tokenPresent: !!GITHUB_TOKEN,
-    tokenLength: GITHUB_TOKEN ? GITHUB_TOKEN.length : 0,
     owner: GITHUB_OWNER,
     repo: GITHUB_REPO,
     filePath: FILE_PATH,
-    nodeVersion: process.version,
-    envKeys: Object.keys(process.env).filter(k => k.includes("GIT") || k.includes("AUTH"))
   };
 
   try {
     if (!GITHUB_TOKEN) {
-      console.error(`[${requestId}] Error: GITHUB_TOKEN missing`);
       return NextResponse.json(
-        { error: "Configuration Error: GITHUB_TOKEN is missing on Vercel.", diagnostics },
+        { error: "Configuration Error: GITHUB_TOKEN is missing.", diagnostics },
         { status: 501 }
       );
     }
 
-    // Try to parse JSON body
     let newGame;
     try {
       newGame = await request.json();
     } catch (e) {
-      console.error(`[${requestId}] Error: Failed to parse request body as JSON`);
       return NextResponse.json(
         { error: "Invalid JSON in request body", diagnostics },
         { status: 400 }
       );
     }
-
-    console.log(`[${requestId}] Action: Adding game "${newGame.title || 'Unknown'}"`);
 
     const apiUrl = `https://api.github.com/repos/${GITHUB_OWNER}/${GITHUB_REPO}/contents/${FILE_PATH}`;
     const headers = {
@@ -52,49 +43,68 @@ export async function POST(request: Request) {
       "User-Agent": "NextJS-App-Route"
     };
 
-    // 1. Get current file content + SHA
-    console.log(`[${requestId}] Action: Fetching from GitHub...`);
-    const getRes = await fetch(apiUrl, { headers, cache: 'no-store' });
+    // 1. Get metadata and SHA
+    console.log(`[${requestId}] Action: Fetching metadata from GitHub...`);
+    const metaRes = await fetch(apiUrl, { headers, cache: 'no-store' });
     
-    if (!getRes.ok) {
-      const errText = await getRes.text();
-      console.error(`[${requestId}] GitHub Fetch Error (${getRes.status}): ${errText}`);
-      return NextResponse.json(
-        { 
-          error: "GitHub API: Failed to fetch file content.", 
-          githubStatus: getRes.status,
-          githubError: errText,
-          diagnostics 
-        },
-        { status: 502 }
-      );
+    if (!metaRes.ok) {
+        const errText = await metaRes.text();
+        return NextResponse.json(
+          { error: "GitHub API: Failed to fetch metadata.", githubStatus: metaRes.status, githubError: errText, diagnostics },
+          { status: 502 }
+        );
     }
     
-    const fileData = await getRes.json();
-    const currentContent = Buffer.from(fileData.content, "base64").toString("utf-8");
+    const fileData = await metaRes.json();
     const sha = fileData.sha;
+    diagnostics.sha = sha;
+
+    // 2. Get the actual content (large files > 1MB don't include it in metadata)
+    let currentContent = "";
+    if (fileData.content) {
+        console.log(`[${requestId}] Action: Content found in metadata, decoding...`);
+        currentContent = Buffer.from(fileData.content, "base64").toString("utf-8");
+    } else {
+        console.log(`[${requestId}] Action: Large file detected (no content in metadata). Fetching raw content...`);
+        // Use the download_url or fetch raw by specifying content type
+        const rawRes = await fetch(apiUrl, { 
+            headers: { ...headers, Accept: "application/vnd.github.v3.raw" },
+            cache: 'no-store'
+        });
+        
+        if (!rawRes.ok) {
+            const errText = await rawRes.text();
+            return NextResponse.json(
+              { error: "GitHub API: Failed to fetch raw content.", githubStatus: rawRes.status, githubError: errText, diagnostics },
+              { status: 502 }
+            );
+        }
+        currentContent = await rawRes.text();
+    }
     
+    console.log(`[${requestId}] Action: Content fetched. Length: ${currentContent.length} chars.`);
+
+    // 3. Prepend the new game
     let games = [];
     try {
         games = JSON.parse(currentContent);
-        console.log(`[${requestId}] Success: Fetched ${games.length} games.`);
-    } catch (parseErr) {
-        console.error(`[${requestId}] Error: Repo JSON parse fail`);
+        console.log(`[${requestId}] Action: Parsed ${games.length} games.`);
+    } catch (parseErr: any) {
+        console.error(`[${requestId}] Error: Repo JSON parse fail: ${parseErr.message}`);
         return NextResponse.json(
-            { error: "The JSON file in the repository is malformed.", diagnostics },
+            { error: "The JSON file in the repository is malformed.", detail: parseErr.message, diagnostics },
             { status: 500 }
         );
     }
 
-    // 2. Prepend the new game
     const updatedGames = [newGame, ...games];
     const updatedContent = Buffer.from(
       JSON.stringify(updatedGames, null, 2),
       "utf-8"
     ).toString("base64");
 
-    // 3. Commit back
-    console.log(`[${requestId}] Action: Sending update to GitHub...`);
+    // 4. Commit back
+    console.log(`[${requestId}] Action: Committing updated content to GitHub...`);
     const putRes = await fetch(apiUrl, {
       method: "PUT",
       headers,
@@ -107,26 +117,18 @@ export async function POST(request: Request) {
 
     if (!putRes.ok) {
       const errText = await putRes.text();
-      console.error(`[${requestId}] GitHub Commit Error (${putRes.status}): ${errText}`);
       return NextResponse.json(
-        { 
-          error: "GitHub API: Failed to save changes.", 
-          githubStatus: putRes.status,
-          githubError: errText,
-          diagnostics 
-        },
+        { error: "GitHub API: Failed to save changes.", githubStatus: putRes.status, githubError: errText, diagnostics },
         { status: 503 }
       );
     }
 
-    console.log(`[${requestId}] Success: Game added.`);
+    console.log(`[${requestId}] Success: Game added effectively.`);
     return NextResponse.json({ success: true, diagnostics });
-  } catch (error) {
-    const message = error instanceof Error ? error.message : String(error);
-    const stack = error instanceof Error ? error.stack : null;
-    console.error(`[${requestId}] CRITICAL ERROR: ${message}`);
+  } catch (error: any) {
+    console.error(`[${requestId}] CRITICAL ERROR: ${error.message}`);
     return NextResponse.json(
-      { error: "Internal Server Error", detail: message, stack, diagnostics },
+      { error: "Internal Server Error", detail: error.message, stack: error.stack, diagnostics },
       { status: 500 }
     );
   }
