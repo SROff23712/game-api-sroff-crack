@@ -8,7 +8,7 @@ export async function POST(request: Request) {
   
   try {
     const newGame = await request.json();
-    const filePath = path.join(process.cwd(), "games_updated.json");
+    const filePath = path.join(process.cwd(), "public", "games_updated.json");
 
     const fileData = await fs.readFile(filePath, "utf-8");
     const games = JSON.parse(fileData);
