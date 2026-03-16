@@ -1,5 +1,38 @@
 [
   {
+    "title": "Horripilant",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3525970/167f9ae0705e3277dea4dd22365851188db5e1ba/header.jpg?t=1772822760",
+    "description": "Tuez votre Dieu. Devenez digne.Horripilant est un jeu incrémental dungeon crawler glaçant se passant dans les profondeurs d'un monde souterrain oublié. Mêlant des éléments de jeu idle, de puzzle et d'auto-battler, vous combattrez, minerez et réfléchirez pour explorer les tréfonds d'un donjon maudit.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3525970/eb8d1ac21b0c02e4243b43c24852ba7508b4c2b7/ss_eb8d1ac21b0c02e4243b43c24852ba7508b4c2b7.1920x1080.jpg?t=1772822760",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3525970/e84a7ecc6bc9f22d53f23e9797b911f5b980b2b3/ss_e84a7ecc6bc9f22d53f23e9797b911f5b980b2b3.1920x1080.jpg?t=1772822760",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3525970/ecfa78a22cf813571e0bbc32691debe45c1a8b72/ss_ecfa78a22cf813571e0bbc32691debe45c1a8b72.1920x1080.jpg?t=1772822760",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3525970/7c3814b36195fa1739e2948c3b8090d80121a3bd/ss_7c3814b36195fa1739e2948c3b8090d80121a3bd.1920x1080.jpg?t=1772822760",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3525970/bc2675e148343474ff5484f5f7a8f992fbba634a/ss_bc2675e148343474ff5484f5f7a8f992fbba634a.1920x1080.jpg?t=1772822760",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3525970/a99b862c892adea1ce9f622ce6f170d60cb730fb/ss_a99b862c892adea1ce9f622ce6f170d60cb730fb.1920x1080.jpg?t=1772822760"
+    ],
+    "videos": [],
+    "dl": [
+      "https://gofile.io/d/NkAW6E"
+    ],
+    "release_date": "20 févr. 2026",
+    "size": "308 MB",
+    "min_requirements": {
+      "Processeur": "Any x86_64 CPU",
+      "Memoire": "2 GB de",
+      "Graphics": "Integrated",
+      "Storage": "400 MB d'espace disque disponible"
+    },
+    "recommended_requirements": {},
+    "online": false,
+    "categories": [
+      "Occasionnel",
+      "Indépendant",
+      "RPG",
+      "Simulation"
+    ]
+  },
+  {
     "title": "Amnesia: Rebirth",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/999220/header.jpg?t=1752056337",
     "description": "Une nouvelle plongée dans les ténèbres par les créateurs de la série emblématique Amnesia. Un périple atroce à travers la désolation et le désespoir, qui explore les limites de la résilience humaine. Mode aventure disponible pour profiter de l’histoire et de l’aventure sans la partie horreur.",
