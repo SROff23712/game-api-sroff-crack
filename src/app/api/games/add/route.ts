@@ -19,7 +19,8 @@ export async function POST(request: Request) {
 
     return NextResponse.json({ success: true });
   } catch (error) {
-    console.error("Add game error:", error);
-    return NextResponse.json({ error: "Failed to update JSON" }, { status: 500 });
+    const message = error instanceof Error ? error.message : String(error);
+    console.error("Add game error:", message);
+    return NextResponse.json({ error: "Failed to update JSON", detail: message }, { status: 500 });
   }
 }
