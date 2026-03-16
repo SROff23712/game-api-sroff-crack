@@ -1,5 +1,37 @@
 [
   {
+    "title": "Dice A Million",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3430340/7f26ffc6d43cbf1ad54ceae34631320681939b01/header.jpg?t=1773255943",
+    "description": "Avez-vous déjà essayé d'atteindre 1 000 000 avec un jet de dés ? Non ? Constituez le bon sac de dés, et vous pourriez bien y arriver.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3430340/d2f80db4463546931397752eb7641663382b8761/ss_d2f80db4463546931397752eb7641663382b8761.1920x1080.jpg?t=1773255943",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3430340/138bba1947eb79bbb8f1a8e58da92f3f65b88271/ss_138bba1947eb79bbb8f1a8e58da92f3f65b88271.1920x1080.jpg?t=1773255943",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3430340/54aea48f890ca42d34a8c22effe9e984933f3ebe/ss_54aea48f890ca42d34a8c22effe9e984933f3ebe.1920x1080.jpg?t=1773255943",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3430340/9813787d064f9768b12acedc1334bc29f5b28a10/ss_9813787d064f9768b12acedc1334bc29f5b28a10.1920x1080.jpg?t=1773255943",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3430340/a6181a078d23cbbeb9669bddfbf8f2e1608f75f8/ss_a6181a078d23cbbeb9669bddfbf8f2e1608f75f8.1920x1080.jpg?t=1773255943",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3430340/6c58d5d201127bbb49547f3e755626f0091143bd/ss_6c58d5d201127bbb49547f3e755626f0091143bd.1920x1080.jpg?t=1773255943"
+    ],
+    "videos": [],
+    "dl": [
+      "https://buzzheavier.com/7pxv1dkf3yss"
+    ],
+    "release_date": "25 févr. 2026",
+    "size": "233.9 MB",
+    "min_requirements": {
+      "OS": "11, 10, 8, 7, Vista",
+      "Processeur": "2.0 GHz",
+      "Memoire": "1 GB de",
+      "Graphics": "1 GB RAM",
+      "Storage": "30 MB d'espace disque disponible"
+    },
+    "recommended_requirements": {},
+    "online": false,
+    "categories": [
+      "Indépendant",
+      "Stratégie"
+    ]
+  },
+  {
     "title": "PROJECT ZERO : Le Masque de l'Éclipse Lunaire",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2130460/header_french.jpg?t=1765501816",
     "description": "Le jeu d'horreur/survie japonais, « PROJECT ZERO : Le Masque de l'Éclipse Lunaire », est de retour avec de meilleurs graphismes.",
