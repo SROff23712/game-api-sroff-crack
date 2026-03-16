@@ -51,8 +51,9 @@ export async function POST(request: Request) {
         games = JSON.parse(currentContent);
         console.log(`[${requestId}] Action: Parsed current JSON. Found ${games.length} games.`);
     } catch (parseErr) {
+        const errorMsg = parseErr instanceof Error ? parseErr.message : String(parseErr);
         console.error(`[${requestId}] Error: JSON parse failed. Content start: ${currentContent.substring(0, 100)}`);
-        throw new Error(`Failed to parse current JSON: ${parseErr.message}`);
+        throw new Error(`Failed to parse current JSON: ${errorMsg}`);
     }
 
     const sha = fileData.sha;
