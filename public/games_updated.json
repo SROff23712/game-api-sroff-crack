@@ -1,5 +1,37 @@
 [
   {
+    "title": "Horsey Game",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3602570/945b3e12201603882fedbbf7abcb5fc3f3ad3fcb/header.jpg?t=1771454613",
+    "description": "Collect Horses. Breed Horses. Race Horses. Genetically Modify Horses. Create a Horse paradise or just get rich!",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3602570/205fa0300c4c75b15240d4e1c9cf8435a4ff8dbb/ss_205fa0300c4c75b15240d4e1c9cf8435a4ff8dbb.1920x1080.jpg?t=1771454613",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3602570/2e4ba3a1f037f0d7972ac815a48bc47d80beb81e/ss_2e4ba3a1f037f0d7972ac815a48bc47d80beb81e.1920x1080.jpg?t=1771454613",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3602570/781f87312c1bd5db7af4b5a5c7a687f5c42a46d1/ss_781f87312c1bd5db7af4b5a5c7a687f5c42a46d1.1920x1080.jpg?t=1771454613",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3602570/2e17b7d63a22aa4f3268bfa32ee599a95c6b6cab/ss_2e17b7d63a22aa4f3268bfa32ee599a95c6b6cab.1920x1080.jpg?t=1771454613",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3602570/597ae8af02e5ece15cf7d564fe2a7d45d35b2f64/ss_597ae8af02e5ece15cf7d564fe2a7d45d35b2f64.1920x1080.jpg?t=1771454613",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3602570/7ca2a5053fab3d85005b959c447fb893bd00c12b/ss_7ca2a5053fab3d85005b959c447fb893bd00c12b.1920x1080.jpg?t=1771454613"
+    ],
+    "videos": [],
+    "dl": [
+      "https://trashbytes.net/dl/FVYWEfBaXoMdzB9rFxsWCD6krnqUTzjMdFanm5NqcgJozG9S7DDRxQAs20uYZ-40ZTLEegyDW9vS5LkZYmIoTAtNRQ9AoPfVBGRha5t5uMD6Z8mTcj5pH3bCpXm0BqXR?v=1773701945-qEZ%2F1k9RFQfFEWe2iTRzOSh5dILqYuCVI3d7d%2BAU1xI%3D"
+    ],
+    "release_date": "18 févr. 2026",
+    "size": " 71.6MB",
+    "min_requirements": {
+      "OS": "Windows 10",
+      "Processeur": "anything should do",
+      "Memoire": "1 GB de",
+      "Graphics": "pretty minimal",
+      "Storage": "60 MB d'espace disque disponible"
+    },
+    "recommended_requirements": {},
+    "online": false,
+    "categories": [
+      "Indépendant",
+      "Simulation"
+    ]
+  },
+  {
     "title": "Dice A Million",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3430340/7f26ffc6d43cbf1ad54ceae34631320681939b01/header.jpg?t=1773255943",
     "description": "Avez-vous déjà essayé d'atteindre 1 000 000 avec un jet de dés ? Non ? Constituez le bon sac de dés, et vous pourriez bien y arriver.",
