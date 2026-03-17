@@ -1,5 +1,46 @@
 [
   {
+    "title": "Ghost Janitors",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772990/da7aacb6672a432336a6c41ce9aad5414dc6fa35/header.jpg?t=1771701449",
+    "description": "Ghost Janitors est un jeu d’horreur psychologique multijoueur pour 1 à 4 joueurs. Votre mission ? Nettoyer des maisons hantées tout en évitant des monstres terrifiants. Êtes-vous prêt à relever ce défi glaçant avec votre équipe ?",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772990/ss_09a498768e2985a899d9738b98b6270656062b6b.1920x1080.jpg?t=1771701449",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772990/ss_b96f9afcbf5d9d13b744680b36d6e6cf89c00166.1920x1080.jpg?t=1771701449",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772990/ss_7a0be73d2504e10afd5229a291d6f22b79727f75.1920x1080.jpg?t=1771701449",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772990/ss_91f9342b46f5be5031704fd067f563c6eb62cbfe.1920x1080.jpg?t=1771701449",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772990/b1e7119f518db53f77b23d87bf6476cfb24cb652/ss_b1e7119f518db53f77b23d87bf6476cfb24cb652.1920x1080.jpg?t=1771701449",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772990/323c7d767ba393fccbd9cde60f7b4afb4f7449b4/ss_323c7d767ba393fccbd9cde60f7b4afb4f7449b4.1920x1080.jpg?t=1771701449"
+    ],
+    "videos": [],
+    "dl": [
+      "https://gofile.io/d/iyMgEz"
+    ],
+    "release_date": "8 nov. 2025",
+    "size": "11.7 GB",
+    "min_requirements": {
+      "OS": "Windows 10 64Bit",
+      "Processeur": "Intel Core i5-4590 / AMD Ryzen 5 2600",
+      "Memoire": "8000 MB de",
+      "Graphics": "NVIDIA GTX 970 / AMD Radeon R9 390",
+      "Storage": "6000 MB d'espace disque disponible",
+      "DirectX": "Version 11"
+    },
+    "recommended_requirements": {
+      "OS": "Windows 10 64Bit",
+      "Processeur": "Intel Core i5-10600 / AMD Ryzen 5 3600",
+      "Memoire": "8000 MB de",
+      "Graphics": "NVIDIA RTX 2060 / AMD Radeon RX 5700",
+      "Storage": "6000 MB d'espace disque disponible",
+      "DirectX": "Version 11"
+    },
+    "online": true,
+    "categories": [
+      "Action",
+      "Aventure",
+      "Indépendant"
+    ]
+  },
+  {
     "title": "PARANORMASIGHT: The Mermaid's Curse",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701440/4a2259604c34507b0c5ced80c48c0c9900794cb6/header.jpg?t=1772133362",
     "description": "Cet été, survivrez-vous ensemble à la malédiction ? Une nouvelle aventure surnaturelle et mystérieuse commence, un récit doux-amer d’amours de jeunesse, avec de nouveaux lieux, de nouvelles légendes, et de nouveaux personnages à découvrir.",
