@@ -1,5 +1,41 @@
 [
   {
+    "title": "Amnesia: Rebirth",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/999220/header.jpg?t=1752056337",
+    "description": "Une nouvelle plongée dans les ténèbres par les créateurs de la série emblématique Amnesia. Un périple atroce à travers la désolation et le désespoir, qui explore les limites de la résilience humaine. Mode aventure disponible pour profiter de l’histoire et de l’aventure sans la partie horreur.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/999220/ss_f3b3687ee3e92d3a5db0fcc1b5da35bf34b8efdd.1920x1080.jpg?t=1752056337",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/999220/ss_03fd84353b2d7b90adbf0e8dba16f30124a549d4.1920x1080.jpg?t=1752056337",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/999220/ss_0a1c836d46cd9aaf16f6fb69df22e2081c224377.1920x1080.jpg?t=1752056337",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/999220/ss_27735984ed3881fe0f9bd2ad82d17257f168e5b7.1920x1080.jpg?t=1752056337",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/999220/ss_181f8da62105d593e0b607d42479bae5e3db83b4.1920x1080.jpg?t=1752056337",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/999220/ss_eb0e9a01d22bd2b002b5ff31677e57cbe2efdc08.1920x1080.jpg?t=1752056337"
+    ],
+    "videos": [],
+    "dl": [
+      "https://gofile.io/d/wOtgux"
+    ],
+    "release_date": "20 oct. 2020",
+    "size": "34.85 GB",
+    "min_requirements": {
+      "Processeur": "Core i3 / AMD FX 2.4Ghz",
+      "Memoire": "4 GB de",
+      "Graphics": "OpenGL 4.0, Nvidia GTX 460 / AMD Radeon HD 5750 / Intel HD 630",
+      "Storage": "35 GB d'espace disque disponible"
+    },
+    "recommended_requirements": {
+      "Processeur": "Core i5 / Ryzen 5",
+      "Memoire": "8 GB de",
+      "Graphics": "OpenGL 4.3, Nvidia GTX 680 / AMD Radeon RX 580 / Intel Xe-HPG",
+      "Storage": "35 GB d'espace disque disponible"
+    },
+    "online": false,
+    "categories": [
+      "Aventure",
+      "Indépendant"
+    ]
+  },
+  {
     "title": "Monterey Jack",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3512950/3484da985a8ece179e14003bdae823a7702d6a15/header.jpg?t=1770665327",
     "description": "Cours, cours aussi vite que tu peux, tu n’échapperas pas à l’Homme-Fromage !",
