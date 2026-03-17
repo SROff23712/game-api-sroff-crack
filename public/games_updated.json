@@ -1,5 +1,35 @@
 [
   {
+    "title": "Dominions 6 - Rise of the Pantokrator",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2511500/header.jpg?t=1742394476",
+    "description": "In Dominions 6 you take control of a powerful being that rules a nation and aspires to godhood. The type of Pretender Gods can vary from magically powerful arch mages to old dragons or an enormous tree. Dominions is a deep 4x turn based strategy game with a very large variety of spells and units.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2511500/ss_d7bee379e49d196e1aed5a191b4e7649f9ff6b85.1920x1080.jpg?t=1742394476",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2511500/ss_f7408d7af980b012ef506c0b8e9b6ae9968fd216.1920x1080.jpg?t=1742394476",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2511500/ss_2644770b65fc69f996942474f83562f42dbca67b.1920x1080.jpg?t=1742394476",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2511500/ss_4aab3fd66272bd8f4d6fecde8a9c9d11ab11c4f8.1920x1080.jpg?t=1742394476",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2511500/ss_bfa442bcc39477d77e317cedaf61301af85dbba4.1920x1080.jpg?t=1742394476",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2511500/ss_af6fa88b5f549eb6ee691b4be7488c78ab1e0a36.1920x1080.jpg?t=1742394476"
+    ],
+    "videos": [],
+    "dl": [
+      "https://buzzheavier.com/u9oy7a7fcbrm"
+    ],
+    "release_date": "17 janv. 2024",
+    "size": "382.3 MB",
+    "min_requirements": {
+      "Processeur": "64-bit intel/amd cpu",
+      "Memoire": "4 GB de",
+      "Graphics": "Integrated",
+      "Storage": "750 MB d'espace disque disponible"
+    },
+    "recommended_requirements": {},
+    "online": true,
+    "categories": [
+      "Stratégie"
+    ]
+  },
+  {
     "title": "Amnesia: Rebirth",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/999220/header.jpg?t=1752056337",
     "description": "Une nouvelle plongée dans les ténèbres par les créateurs de la série emblématique Amnesia. Un périple atroce à travers la désolation et le désespoir, qui explore les limites de la résilience humaine. Mode aventure disponible pour profiter de l’histoire et de l’aventure sans la partie horreur.",
