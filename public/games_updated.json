@@ -1,5 +1,46 @@
 [
   {
+    "title": "PARANORMASIGHT: The Mermaid's Curse",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701440/4a2259604c34507b0c5ced80c48c0c9900794cb6/header.jpg?t=1772133362",
+    "description": "Cet été, survivrez-vous ensemble à la malédiction ? Une nouvelle aventure surnaturelle et mystérieuse commence, un récit doux-amer d’amours de jeunesse, avec de nouveaux lieux, de nouvelles légendes, et de nouveaux personnages à découvrir.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701440/6144b80eab53cfbdd787facfa69b24dd5c2eb473/ss_6144b80eab53cfbdd787facfa69b24dd5c2eb473.1920x1080.jpg?t=1772133362",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701440/438713a5a601f912da694638bce38ec378997b87/ss_438713a5a601f912da694638bce38ec378997b87.1920x1080.jpg?t=1772133362",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701440/17848cde8a45444ee40178433e755d12fe32fd43/ss_17848cde8a45444ee40178433e755d12fe32fd43.1920x1080.jpg?t=1772133362",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701440/047e1f49e18a9e293c0e1ed24b3a217c466f29a9/ss_047e1f49e18a9e293c0e1ed24b3a217c466f29a9.1920x1080.jpg?t=1772133362",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701440/f374ef4c43a991fddb28580857926a341b80f222/ss_f374ef4c43a991fddb28580857926a341b80f222.1920x1080.jpg?t=1772133362",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701440/d3fa25b2bb82cff8ee392335161c95eed218b74f/ss_d3fa25b2bb82cff8ee392335161c95eed218b74f.1920x1080.jpg?t=1772133362"
+    ],
+    "videos": [],
+    "dl": [
+      "https://gofile.io/d/ousgE4"
+    ],
+    "release_date": "19 févr. 2026",
+    "size": "626 MB",
+    "min_requirements": {
+      "OS": "Windows® 11",
+      "Processeur": "AMD Ryzen™ 3 1200 / Intel® Core™ i3-7100",
+      "Memoire": "8 GB de",
+      "Graphics": "AMD Radeon™ RX 460 / Intel® HD",
+      "Storage": "2 GB d'espace disque disponible",
+      "DirectX": "Version 11"
+    },
+    "recommended_requirements": {
+      "OS": "Windows® 11",
+      "Processeur": "AMD Ryzen™ 3 2300X / Intel® Core™ i3-8100",
+      "Memoire": "8 GB de",
+      "Graphics": "AMD Radeon™ RX 6400 / Intel® Arc™ A380 / NVIDIA® GeForce® GTX 1630",
+      "Storage": "2 GB d'espace disque disponible Notes supplémentaires : * The game may not run properly on systems using Intel® Arc™ which do not meet the requirements for Resizable BAR.",
+      "DirectX": "Version 11"
+    },
+    "online": false,
+    "categories": [
+      "Aventure",
+      "RPG",
+      "Simulation"
+    ]
+  },
+  {
     "title": "Rabbit and Steel",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2132850/header.jpg?t=1771398437",
     "description": "&quot;RABBIT &amp; STEEL&quot; est un jeu d'action coopératif et roguelike qui capture l'essence des raids présents dans les MMO, le tout dans un format aléatoire et simplifié. Choisissez votre classe, rassemblez des alliés, mettez vos meilleures oreilles de lapin et luttez pour atteindre le sommet.",
