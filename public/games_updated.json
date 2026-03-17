@@ -1,5 +1,48 @@
 [
   {
+    "title": "Starsand Island",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2966320/a95ff86575587868480e1e6d955192401356b7a4/header.jpg?t=1773728078",
+    "description": "Fuyez l'agitation de la ville et profitez de la vie sur Starsand Island. Pêchez, cultivez, élevez des animaux et tissez des liens d'amitié ou d'amour avec les habitants pour découvrir leurs secrets. Personnalisez votre monde et invitez vos amis afin de façonner ensemble votre petit coin de paradis !",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2966320/ss_e980f1439726b6c8768d491afade55f8e697cc05.1920x1080.jpg?t=1773728078",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2966320/ss_4b7c2cb03bb098db1eda86a261ff5f4f52b16729.1920x1080.jpg?t=1773728078",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2966320/ss_0b1c5d657877372d66bf175ab094d8fe31aaa0f7.1920x1080.jpg?t=1773728078",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2966320/ss_884a4860a49e1e2b58d00f4f16e24545ffcd53d1.1920x1080.jpg?t=1773728078",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2966320/ss_319c80f707e4a890b0c07041fd6292bd53aa69f2.1920x1080.jpg?t=1773728078",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2966320/ss_3b46211c24f3c0b63962367bebec4669a1058794.1920x1080.jpg?t=1773728078"
+    ],
+    "videos": [],
+    "dl": [
+      "https://buzzheavier.com/nirucpokzg0i"
+    ],
+    "release_date": "11 févr. 2026",
+    "size": "8.4 GB",
+    "min_requirements": {
+      "OS": "Windows 10 or later",
+      "Processeur": "Intel i3-2120 / AMD A10-8750 or similar",
+      "Memoire": "8 GB de",
+      "Graphics": "NVIDIA GeForce GTX 650 / AMD Radeon R9 M375X or similar",
+      "Storage": "20 GB d'espace disque disponible",
+      "DirectX": "Version 11 Réseau : connexion internet haut débit"
+    },
+    "recommended_requirements": {
+      "OS": "Windows 10 or later",
+      "Processeur": "Intel i7-8700K / AMD Ryzen 7 4700G or similar",
+      "Memoire": "16 GB de",
+      "Graphics": "NVIDIA GeForce RTX 2060 / AMD Radeon RX 5700 or similar",
+      "Storage": "20 GB d'espace disque disponible",
+      "DirectX": "Version 11 Réseau : connexion internet haut débit"
+    },
+    "online": false,
+    "categories": [
+      "Occasionnel",
+      "Indépendant",
+      "RPG",
+      "Simulation",
+      "Accès anticipé"
+    ]
+  },
+  {
     "title": "FINAL FANTASY XV WINDOWS EDITION",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/637650/header.jpg?t=1737963877",
     "description": "Vivez l’aventure en qualité ultime. Grâce à sa pléthore de contenus bonus et sa compatibilité avec les options graphiques en ultra haute résolution et HDR 10, vous pourrez explorer le superbe monde de FINAL FANTASY XV comme jamais auparavant.",
