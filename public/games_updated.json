@@ -1,5 +1,42 @@
 [
   {
+    "title": "FINAL FANTASY XV WINDOWS EDITION",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/637650/header.jpg?t=1737963877",
+    "description": "Vivez l’aventure en qualité ultime. Grâce à sa pléthore de contenus bonus et sa compatibilité avec les options graphiques en ultra haute résolution et HDR 10, vous pourrez explorer le superbe monde de FINAL FANTASY XV comme jamais auparavant.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/637650/ss_2277e29f2b6899f3bcc63a7bc0a2e6db62026656.1920x1080.jpg?t=1737963877",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/637650/ss_031800eb49e2c1da5d8a31f8fe0bbb64544c2d0a.1920x1080.jpg?t=1737963877",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/637650/ss_5892506e2db87eb44cb0c4a2d6844c2bd2f57fbb.1920x1080.jpg?t=1737963877",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/637650/ss_999e73c2cb361d41451d1a84d85f3ff59aa30110.1920x1080.jpg?t=1737963877",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/637650/ss_28866a86dfe9753492c7737de7622afdeab31f2f.1920x1080.jpg?t=1737963877",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/637650/ss_da4aaf619760c0f075e735bcc4f2f8b850c0c581.1920x1080.jpg?t=1737963877"
+    ],
+    "videos": [],
+    "dl": [
+      "https://buzzheavier.com/trntnmzpmiqt"
+    ],
+    "release_date": "6 mars 2018",
+    "size": "93.3 GB",
+    "min_requirements": {
+      "Processeur": "Intel® Core™ i5-2500（3.3 GHz ou plus）/ AMD FX™-6100（3.3 GHz ou plus）",
+      "Memoire": "8 GB de",
+      "Graphics": "NVIDIA® GeForce® GTX 760 / NVIDIA® GeForce® GTX 1050 / AMD Radeon™ R9 280",
+      "Storage": "100 GB d'espace disque disponible Carte son : Carte son compatible avec DirectSound®, Windows Sonic et Dolby Atmos Notes supplémentaires : 720p 30 fps",
+      "DirectX": "Version 11"
+    },
+    "recommended_requirements": {
+      "Processeur": "Intel® Core™ i7-3770（3.4 GHz ou plus）/ AMD FX™-8350（4.0 GHz ou plus）",
+      "Memoire": "16 GB de",
+      "Graphics": "NVIDIA® GeForce® GTX 1060 6 GB VRAM / Radeon™ RX 480",
+      "Storage": "100 GB d'espace disque disponible Carte son : Carte son compatible avec DirectSound®, Windows Sonic et Dolby Atmos Notes supplémentaires : 1080p 30 fps",
+      "DirectX": "Version 11"
+    },
+    "online": true,
+    "categories": [
+      "RPG"
+    ]
+  },
+  {
     "title": "Escape from Yandere",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4081840/357a2f59ec1939f8d0025c0121e86b0f3dabf12c/header.jpg?t=1771446146",
     "description": "Yandera t’a enfermé chez toi et exige une déclaration d’amour. Tu peux rester avec elle ou tenter de t’échapper. Explore la maison, mais sois prudent : Yandera peut te tuer.",
