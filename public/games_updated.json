@@ -1,5 +1,42 @@
 [
   {
+    "title": "Rabbit and Steel",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2132850/header.jpg?t=1771398437",
+    "description": "&quot;RABBIT &amp; STEEL&quot; est un jeu d'action coopératif et roguelike qui capture l'essence des raids présents dans les MMO, le tout dans un format aléatoire et simplifié. Choisissez votre classe, rassemblez des alliés, mettez vos meilleures oreilles de lapin et luttez pour atteindre le sommet.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2132850/ss_91952981162e91bb26079bef1291394740e5fe70.1920x1080.jpg?t=1771398437",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2132850/ss_883aa4fc91ed1ed7c6120d5201b52fab1d107c4e.1920x1080.jpg?t=1771398437",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2132850/ss_38433b305258a508e6c3151c4b9e8429aace8f19.1920x1080.jpg?t=1771398437",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2132850/ss_b2a351bf0d7603bb5182c0054abaf81374965f57.1920x1080.jpg?t=1771398437",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2132850/ss_2d5575f6a79d4e828180050b6c30fb649b36152d.1920x1080.jpg?t=1771398437",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2132850/ss_bb1edc05d3b06268ccfe128f0784a85a3ac66de1.1920x1080.jpg?t=1771398437"
+    ],
+    "videos": [],
+    "dl": [
+      "https://buzzheavier.com/pimskm4kygcb"
+    ],
+    "release_date": "9 mai 2024",
+    "size": "605.0MB",
+    "min_requirements": {
+      "Memoire": "2 GB de",
+      "Graphics": "128 MB",
+      "Storage": "300 MB d'espace disque disponible",
+      "DirectX": "Version 12"
+    },
+    "recommended_requirements": {
+      "Memoire": "4 GB de",
+      "Graphics": "512 MB",
+      "Storage": "300 MB d'espace disque disponible"
+    },
+    "online": true,
+    "categories": [
+      "Action",
+      "Aventure",
+      "Indépendant",
+      "RPG"
+    ]
+  },
+  {
     "title": "Starsand Island",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2966320/a95ff86575587868480e1e6d955192401356b7a4/header.jpg?t=1773728078",
     "description": "Fuyez l'agitation de la ville et profitez de la vie sur Starsand Island. Pêchez, cultivez, élevez des animaux et tissez des liens d'amitié ou d'amour avec les habitants pour découvrir leurs secrets. Personnalisez votre monde et invitez vos amis afin de façonner ensemble votre petit coin de paradis !",
