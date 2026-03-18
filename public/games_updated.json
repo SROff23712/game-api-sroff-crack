@@ -1,5 +1,39 @@
 [
   {
+    "title": "Clustertruck",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/397950/header.jpg?t=1752510453",
+    "description": "Clustertruck is a chaotic physics based truckformer. Jump your way through insane levels in a game of &quot;the floor is lava&quot; on top of speeding trucks driven by terrible drivers.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/397950/ss_e15914c580a09781ee15ac598bb779e7616426b5.1920x1080.jpg?t=1752510453",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/397950/ss_98063a3930a7bb600695486897c323dbcb80ce87.1920x1080.jpg?t=1752510453",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/397950/ss_0f689129baabf3d8061e4cb78dba651b3148b510.1920x1080.jpg?t=1752510453",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/397950/ss_089f2b59b48bd54f41a2d18682e1a1883ea3af1b.1920x1080.jpg?t=1752510453",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/397950/ss_ffe91adf2baa39c441fc6d1ca8905204f64c8afc.1920x1080.jpg?t=1752510453",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/397950/ss_bc116108727199df67c5afbbfad8d0661a14ac9d.1920x1080.jpg?t=1752510453"
+    ],
+    "videos": [],
+    "dl": [
+      "https://buzzheavier.com/ta4ye67sfb1g"
+    ],
+    "release_date": "27 sept. 2016",
+    "size": "376 MB",
+    "min_requirements": {
+      "Processeur": "2Ghz",
+      "Memoire": "4 GB de",
+      "Graphics": "Dedicated recommended, integrated will run at 720p",
+      "Storage": "500 MB d'espace disque disponible",
+      "DirectX": "Version 9.0"
+    },
+    "recommended_requirements": {
+      "Memoire": "8 GB de"
+    },
+    "online": false,
+    "categories": [
+      "Action",
+      "Indépendant"
+    ]
+  },
+  {
     "title": "Dominions 6 - Rise of the Pantokrator",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2511500/header.jpg?t=1742394476",
     "description": "In Dominions 6 you take control of a powerful being that rules a nation and aspires to godhood. The type of Pretender Gods can vary from magically powerful arch mages to old dragons or an enormous tree. Dominions is a deep 4x turn based strategy game with a very large variety of spells and units.",
