@@ -1,5 +1,44 @@
 [
   {
+    "title": "DRAGON BALL Z: KAKAROT",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/851850/header.jpg?t=1769139697",
+    "description": "Revivez l'histoire de Son Goku et des Guerriers Z dans DRAGON BALL Z: KAKAROT ! Au-delà des affrontements épiques, vivez le monde de DRAGON BALL Z, combattez, mangez, pêchez et entraînez-vous avec Son Goku, Son Gohan, Vegeta et les autres.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/851850/ss_bfda57d08727dd5281892e13b594121b897ea407.1920x1080.jpg?t=1769139697",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/851850/ss_04e44a1a23446c5ab3fa2a32320ae7abde77ff6a.1920x1080.jpg?t=1769139697",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/851850/ss_98935e58c3a3fcbe51b09c64cf2945427132ff2d.1920x1080.jpg?t=1769139697",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/851850/ss_f6f995f4dab00ab33dae1b7a0c05cc0ab8e7d62e.1920x1080.jpg?t=1769139697",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/851850/ss_7e67328c91605dca4f905d66b8259c3c2a6450d0.1920x1080.jpg?t=1769139697",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/851850/ss_654f59aa78b9a2c6192a3a63b752eff6c1b78d48.1920x1080.jpg?t=1769139697"
+    ],
+    "videos": [],
+    "dl": [
+      "https://gofile.io/d/M2slJL"
+    ],
+    "release_date": "16 janv. 2020",
+    "size": "107.1 GB",
+    "min_requirements": {
+      "Processeur": "Intel Core i5-2400 or AMD Phenom II X6 1100T",
+      "Memoire": "4 GB de",
+      "Graphics": "GeForce GTX 750 Ti or Radeon HD 7950",
+      "Storage": "36 GB d'espace disque disponible",
+      "DirectX": "Version 11 Réseau : connexion internet haut débit"
+    },
+    "recommended_requirements": {
+      "OS": "Windows 10 64-bit",
+      "Processeur": "Intel Core i5-3470 or AMD Ryzen 3 1200",
+      "Memoire": "8 GB de",
+      "Graphics": "GeForce GTX 960 or Radeon R9 280X",
+      "Storage": "40 GB d'espace disque disponible",
+      "DirectX": "Version 11 Réseau : connexion internet haut débit"
+    },
+    "online": false,
+    "categories": [
+      "Action",
+      "RPG"
+    ]
+  },
+  {
     "title": "Clustertruck",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/397950/header.jpg?t=1752510453",
     "description": "Clustertruck is a chaotic physics based truckformer. Jump your way through insane levels in a game of &quot;the floor is lava&quot; on top of speeding trucks driven by terrible drivers.",
