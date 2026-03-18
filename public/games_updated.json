@@ -1,5 +1,45 @@
 [
   {
+    "title": "DON'T SCREAM TOGETHER",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2692990/af1cd4647409efd4c9cd3afe70e0444ebd8fde2c/header.jpg?t=1772444922",
+    "description": "DON'T SCREAM TOGETHER est un jeu d’horreur coop en ligne où vous et vos amis parcourez une forêt dans l’obscurité totale avec des caméscopes en 1993. Utilisez le chat de proximité pour fuir. Si quelqu’un crie ou parle trop fort, la partie repart ou le fautif devient chasseur.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2692990/70f62ca9bb864f84a9c2a373cdac815d26eba195/ss_70f62ca9bb864f84a9c2a373cdac815d26eba195.1920x1080.jpg?t=1772444922",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2692990/4f0b411af1701f33f2b9ec7ebd595e4059101647/ss_4f0b411af1701f33f2b9ec7ebd595e4059101647.1920x1080.jpg?t=1772444922",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2692990/f75bc9a8ebe32fc434738abb688564bf243fcb5f/ss_f75bc9a8ebe32fc434738abb688564bf243fcb5f.1920x1080.jpg?t=1772444922",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2692990/b775fe27af31fed870634ad0d2b4baad495be898/ss_b775fe27af31fed870634ad0d2b4baad495be898.1920x1080.jpg?t=1772444922",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2692990/63068e11e93c3005da22daf2bbefe4bc96cf0dd9/ss_63068e11e93c3005da22daf2bbefe4bc96cf0dd9.1920x1080.jpg?t=1772444922",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2692990/fa45714537abeb6d9a8ddc7e2955f6cb5f0a7b56/ss_fa45714537abeb6d9a8ddc7e2955f6cb5f0a7b56.1920x1080.jpg?t=1772444922"
+    ],
+    "videos": [],
+    "dl": [
+      "https://gofile.io/d/0vyanv"
+    ],
+    "release_date": "3 déc. 2025",
+    "size": "12.3 GB",
+    "min_requirements": {
+      "OS": "Windows 10 (64 bit)",
+      "Processeur": "Intel Core i5-9600K or AMD Ryzen 5 3600",
+      "Memoire": "8 GB de",
+      "Graphics": "NVIDIA GeForce GTX 1050 Ti, 4GB or AMD Radeon RX 470, 4GB",
+      "Storage": "17 GB d'espace disque disponible Notes supplémentaires : Microphone Required - Headset + SSD Highly Recommended",
+      "DirectX": "Version 12 Réseau : connexion internet haut débit"
+    },
+    "recommended_requirements": {
+      "OS": "Windows 10 (64 bit)",
+      "Processeur": "AMD Ryzen 7 5800X ／ Intel Core i5-12600K",
+      "Memoire": "16 GB de",
+      "Graphics": "NVIDIA GeForce RTX 3060 12 GB / RX 6700 XT GAMING 12GB",
+      "Storage": "17 GB d'espace disque disponible Notes supplémentaires : Microphone Required - Headset + SSD Highly Recommended",
+      "DirectX": "Version 12 Réseau : connexion internet haut débit"
+    },
+    "online": true,
+    "categories": [
+      "Occasionnel",
+      "Simulation"
+    ]
+  },
+  {
     "title": "DRAGON BALL Z: KAKAROT",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/851850/header.jpg?t=1769139697",
     "description": "Revivez l'histoire de Son Goku et des Guerriers Z dans DRAGON BALL Z: KAKAROT ! Au-delà des affrontements épiques, vivez le monde de DRAGON BALL Z, combattez, mangez, pêchez et entraînez-vous avec Son Goku, Son Gohan, Vegeta et les autres.",
