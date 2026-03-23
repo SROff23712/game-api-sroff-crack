@@ -1,5 +1,44 @@
 [
   {
+    "title": "Creature Kitchen",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097300/6017a90ffb283f5ce167026d307420dc09b363ea/header.jpg?t=1773444253",
+    "description": "Un simulateur de cuisine adorablement glauque dans lequel vous servez des plats, tissez des liens avec la faune locale et explorez une étrange maison au fin fond des bois. La nuit va être longue...",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097300/239ccaf955fa9ba9e9ecb34dfe8d1a9168e5f5e7/ss_239ccaf955fa9ba9e9ecb34dfe8d1a9168e5f5e7.1920x1080.jpg?t=1773444253",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097300/701002f3dce1c0eb4f4f9561172579f7ae6792ea/ss_701002f3dce1c0eb4f4f9561172579f7ae6792ea.1920x1080.jpg?t=1773444253",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097300/192fee8f8bc74e00971fb2d148810a65783c6d23/ss_192fee8f8bc74e00971fb2d148810a65783c6d23.1920x1080.jpg?t=1773444253",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097300/5a62a198dcd9d65edd149d2bffe899856f0ea506/ss_5a62a198dcd9d65edd149d2bffe899856f0ea506.1920x1080.jpg?t=1773444253",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097300/e6496563c1cc632f8956eda04e2408b4d2d79011/ss_e6496563c1cc632f8956eda04e2408b4d2d79011.1920x1080.jpg?t=1773444253",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097300/1cb6024d78c7a30d56eb7971c39499859a763406/ss_1cb6024d78c7a30d56eb7971c39499859a763406.1920x1080.jpg?t=1773444253"
+    ],
+    "videos": [],
+    "dl": [
+      "https://buzzheavier.com/g0etkjo7ol52"
+    ],
+    "release_date": "6 févr. 2026",
+    "size": "633.6 MB",
+    "min_requirements": {
+      "OS": "Windows 10/11",
+      "Processeur": "Intel Core i7-4790",
+      "Memoire": "3 GB de",
+      "Graphics": "Nvidia GTX 960",
+      "Storage": "920 MB d'espace disque disponible"
+    },
+    "recommended_requirements": {
+      "OS": "Windows 10/11",
+      "Processeur": "Intel Core i7-7700",
+      "Memoire": "4 GB de",
+      "Graphics": "Nvidia GTX 1060",
+      "Storage": "1 GB d'espace disque disponible"
+    },
+    "online": false,
+    "categories": [
+      "Occasionnel",
+      "Indépendant",
+      "Simulation"
+    ]
+  },
+  {
     "title": "DON'T SCREAM TOGETHER",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2692990/af1cd4647409efd4c9cd3afe70e0444ebd8fde2c/header.jpg?t=1772444922",
     "description": "DON'T SCREAM TOGETHER est un jeu d’horreur coop en ligne où vous et vos amis parcourez une forêt dans l’obscurité totale avec des caméscopes en 1993. Utilisez le chat de proximité pour fuir. Si quelqu’un crie ou parle trop fort, la partie repart ou le fautif devient chasseur.",
