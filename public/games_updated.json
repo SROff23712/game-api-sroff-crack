@@ -1,5 +1,44 @@
 [
   {
+    "title": "Data Center",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4170200/0608b0774dad1ac38875db0389f719c99f6ccf63/header.jpg?t=1774948155",
+    "description": "Construisez, câblez, automatisez. Assemblez racks, serveurs et switchs, allouez la capacité par app, gagnez de l'argent via les données et débloquez du matériel et de gros clients via l'XP. Suivez les paquets de données colorés dans votre centre vivant.",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4170200/55f74e88eb398005f5ad260216edbedf92681507/ss_55f74e88eb398005f5ad260216edbedf92681507.1920x1080.jpg?t=1774948155",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4170200/d51e399ae0b2476c906703eaf6eae875de91ada0/ss_d51e399ae0b2476c906703eaf6eae875de91ada0.1920x1080.jpg?t=1774948155",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4170200/a785ff3384a53b23518597f918f3b8f3c94e256a/ss_a785ff3384a53b23518597f918f3b8f3c94e256a.1920x1080.jpg?t=1774948155",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4170200/ae428b9638d1221eccbaf5849fa70a80851f102d/ss_ae428b9638d1221eccbaf5849fa70a80851f102d.1920x1080.jpg?t=1774948155",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4170200/0b059830952a11a88b997e88cc06e53f366ab748/ss_0b059830952a11a88b997e88cc06e53f366ab748.1920x1080.jpg?t=1774948155",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4170200/97f410d3c316b6beabf7b9bc303ef22178819eec/ss_97f410d3c316b6beabf7b9bc303ef22178819eec.1920x1080.jpg?t=1774948155"
+    ],
+    "videos": [],
+    "dl": [
+      "https://buzzheavier.com/y1iogkrhlby3"
+    ],
+    "release_date": "31 mars 2026",
+    "size": "1.7 GB",
+    "min_requirements": {
+      "OS": "Windows 10+",
+      "Processeur": "Intel Core i5 - 4670 or AMD equivalent",
+      "Memoire": "8 GB de",
+      "Graphics": "NVIDIA GTX 960 or AMD equivalent",
+      "Storage": "2 GB d'espace disque disponible",
+      "DirectX": "Version 11"
+    },
+    "recommended_requirements": {
+      "OS": "Windows 11 64 Bit",
+      "Processeur": "Intel Core i5 - 6600k or AMD equivalent",
+      "Memoire": "16 GB de",
+      "Graphics": "NVIDIA GTX 1070 or AMD equivalent",
+      "Storage": "2 GB d'espace disque disponible",
+      "DirectX": "Version 11"
+    },
+    "online": false,
+    "categories": [
+      "Simulation"
+    ]
+  },
+  {
     "title": "Creature Kitchen",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097300/6017a90ffb283f5ce167026d307420dc09b363ea/header.jpg?t=1773444253",
     "description": "Un simulateur de cuisine adorablement glauque dans lequel vous servez des plats, tissez des liens avec la faune locale et explorez une étrange maison au fin fond des bois. La nuit va être longue...",
