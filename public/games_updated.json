@@ -1,5 +1,45 @@
 [
   {
+    "title": "Corner Shop: NightShift",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3306990/d9606f6c3de3208e16e1b16ad8c2650d25edebd3/header.jpg?t=1773344956",
+    "description": "Prenez un poste de nuit dans un endroit régi par l'habitude, non par le but. Réapprovisionnez les rayons, recevez les livraisons, nettoyez les dégâts… et essayez de tenir jusqu’au matin. Quelque chose vous attend dans l’obscurité",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3306990/13f3554abf8101db42d28074090e5ceb2d284612/ss_13f3554abf8101db42d28074090e5ceb2d284612.1920x1080.jpg?t=1773344956",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3306990/11acb8df807d8ff9d4bce30b1c64c7af60a31d21/ss_11acb8df807d8ff9d4bce30b1c64c7af60a31d21.1920x1080.jpg?t=1773344956",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3306990/61e17551c0cd2e07fd93a3bcd880fe2f53c9757b/ss_61e17551c0cd2e07fd93a3bcd880fe2f53c9757b.1920x1080.jpg?t=1773344956",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3306990/d31b26d45f6082ffb681c5582c66ca07f2f56946/ss_d31b26d45f6082ffb681c5582c66ca07f2f56946.1920x1080.jpg?t=1773344956",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3306990/f5d79811f4af4c0b0a77f881bbee84c541460fec/ss_f5d79811f4af4c0b0a77f881bbee84c541460fec.1920x1080.jpg?t=1773344956",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3306990/99eff177f2756cdc5ba5372f7256d9c3592547ff/ss_99eff177f2756cdc5ba5372f7256d9c3592547ff.1920x1080.jpg?t=1773344956"
+    ],
+    "videos": [],
+    "dl": [
+      "https://buzzheavier.com/szmxga10y7ax"
+    ],
+    "release_date": "12 mars 2026",
+    "size": "10.6 GB",
+    "min_requirements": {
+      "OS": "Windows 10",
+      "Processeur": "Intel Core i5-8400 or AMD Ryzen 5 1600",
+      "Memoire": "8 GB de",
+      "Graphics": "NVIDIA GeForce RTX 2060 or AMD Radeon RX 6700 XT",
+      "Storage": "20 GB d'espace disque disponible"
+    },
+    "recommended_requirements": {
+      "OS": "Win 11",
+      "Processeur": "Intel Core i7-9700K or AMD Ryzen 5 5600X",
+      "Memoire": "8 GB de",
+      "Graphics": "NVIDIA GeForce RTX 3060 Ti or AMD Radeon RX 6700 XT",
+      "Storage": "20 GB d'espace disque disponible"
+    },
+    "online": false,
+    "categories": [
+      "Aventure",
+      "Indépendant",
+      "RPG",
+      "Simulation"
+    ]
+  },
+  {
     "title": "Data Center",
     "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4170200/0608b0774dad1ac38875db0389f719c99f6ccf63/header.jpg?t=1774948155",
     "description": "Construisez, câblez, automatisez. Assemblez racks, serveurs et switchs, allouez la capacité par app, gagnez de l'argent via les données et débloquez du matériel et de gros clients via l'XP. Suivez les paquets de données colorés dans votre centre vivant.",
